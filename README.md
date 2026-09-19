@@ -62,6 +62,7 @@ Technical layer for persistent AI memory. Build your own personal AI on top.
 | [Mem0](https://github.com/mem0ai/mem0) | Universal memory layer for AI. Stores user profiles across sessions. Hybrid DB (vector + graph). | 25K+ |
 | [Honcho](https://github.com/plastic-labs/honcho) | Open source memory infrastructure. Build AI apps that remember users. | - |
 | [LangMem](https://langchain.com) | LangChain SDK for persistent user profiles. Long-term memory across threads. | - |
+| [Screenpipe](https://github.com/screenpipe/screenpipe) | Searchable screen text and audio history for personal AI through a local API and MCP. Raw history stays local by default; configured cloud services can transmit context. Source-available under the Screenpipe Commercial License. | - |
 
 ## Digital Twins
 
