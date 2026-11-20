@@ -40,6 +40,7 @@ Knowledge base + AI. Store everything, find anything, synthesize on demand.
 | [Mem](https://mem.ai) | AI-driven auto-organization. Captures notes, auto-tags, instant search across all content. | - |
 | [Saner.AI](https://saner.ai) | AI inbox that captures notes/emails, auto-tags, turns thoughts into tasks. Unified organization. | - |
 | [Minimal Second Brain](https://github.com/gokhanarkan/minimal-second-brain) | AI-native Obsidian vault template. Structure for knowledge management with AI integration. | - |
+| [Zortex](https://zortex.me/en/install) | Synchronizes supported app content to an encrypted local store that an AI assistant can search across sessions, with links to source records. | - |
 
 ## AI Coaches
 
